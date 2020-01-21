@@ -1,0 +1,3 @@
+/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/CMakeFiles/DNA_sequence_project.dir
+/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/CMakeFiles/edit_cache.dir

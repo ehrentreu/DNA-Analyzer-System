@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DNA_sequence_project.dir/model/dna_sequence.cpp.o CMakeFiles/DNA_sequence_project.dir/view/parser.cpp.o CMakeFiles/DNA_sequence_project.dir/main.cpp.o CMakeFiles/DNA_sequence_project.dir/test_dna_sequence.cpp.o  -o DNA_sequence_project 

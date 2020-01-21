@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DNA_sequence_refuctor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DNA_sequence_refactor">
+				<Option output="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/DNA_sequence_refactor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 DNA_sequence_refactor"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DNA_sequence_refactor/fast">
+				<Option output="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/DNA_sequence_refactor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 DNA_sequence_refactor/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/CLI.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/DnaAnalyzer.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/DnaCollection.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/commands.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/control_commands/help.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/control_commands/list.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/control_commands/quit.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/control_commands/show.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/dnaAnalyzerCommand.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/dnaRecord.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/dna_sequence.cpp">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/dna_sequence.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/fileReader.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/fileWriter.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/main.cpp">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/nucleotide.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_analysis/count.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_analysis/find.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_analysis/findall.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_analysis/len.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_creation/dup.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_creation/load.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_creation/new.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_management/del.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_management/reenum.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_management/rename.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_management/save.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_manipulation/concat.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_manipulation/pair.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_manipulation/replace.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/sequence_manipulation/slice.h">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/test_dna_sequence.cpp">
+			<Option target="DNA_sequence_refactor"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

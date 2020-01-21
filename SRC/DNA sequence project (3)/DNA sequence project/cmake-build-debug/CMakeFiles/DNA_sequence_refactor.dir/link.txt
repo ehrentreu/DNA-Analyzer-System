@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DNA_sequence_refactor.dir/main.cpp.o CMakeFiles/DNA_sequence_refactor.dir/dna_sequence.cpp.o CMakeFiles/DNA_sequence_refactor.dir/test_dna_sequence.cpp.o  -o DNA_sequence_refactor 

@@ -1,0 +1,134 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../controller/ICommand.h
+model/fileWriter.h
+../controller/model/fileWriter.h
+model/fileReader.h
+../controller/model/fileReader.h
+model/DnaCollection.h
+../controller/model/DnaCollection.h
+model/dnaRecord.h
+../controller/model/dnaRecord.h
+
+../model/DnaCollection.h
+cstddef
+-
+dnaRecord.h
+../model/dnaRecord.h
+map
+../model/map
+string.h
+-
+string
+-
+
+../model/dnaRecord.h
+glob.h
+-
+string
+-
+dna_sequence.h
+../model/dna_sequence.h
+
+../model/dna_sequence.h
+nucleotide.h
+../model/nucleotide.h
+cassert
+-
+string
+-
+iostream
+-
+list
+-
+vector
+-
+iostream
+-
+fstream
+-
+
+../model/fileReader.h
+dna_sequence.h
+../model/dna_sequence.h
+
+../model/nucleotide.h
+
+/home/gottscha/CLionProjects/DNA sequence project/main.cpp
+iostream
+-
+model/dna_sequence.h
+/home/gottscha/CLionProjects/DNA sequence project/model/dna_sequence.h
+view/CLI.h
+/home/gottscha/CLionProjects/DNA sequence project/view/CLI.h
+exception
+-
+string
+-
+
+/home/gottscha/CLionProjects/DNA sequence project/model/dna_sequence.h
+nucleotide.h
+/home/gottscha/CLionProjects/DNA sequence project/model/nucleotide.h
+cassert
+-
+string
+-
+iostream
+-
+list
+-
+vector
+-
+iostream
+-
+fstream
+-
+
+/home/gottscha/CLionProjects/DNA sequence project/model/nucleotide.h
+
+/home/gottscha/CLionProjects/DNA sequence project/view/CLI.h
+vector
+-
+string
+-
+sstream
+-
+dnaRecord.h
+/home/gottscha/CLionProjects/DNA sequence project/view/dnaRecord.h
+parser.h
+/home/gottscha/CLionProjects/DNA sequence project/view/parser.h
+
+/home/gottscha/CLionProjects/DNA sequence project/view/parser.cpp
+../ICommand.h
+/home/gottscha/CLionProjects/DNA sequence project/ICommand.h
+parser.h
+/home/gottscha/CLionProjects/DNA sequence project/view/parser.h
+
+/home/gottscha/CLionProjects/DNA sequence project/view/parser.h
+../ICommand.h
+/home/gottscha/CLionProjects/DNA sequence project/ICommand.h
+vector
+-
+stdio.h
+-
+sstream
+-
+list
+-
+map
+-
+fileReader.h
+-
+dna_sequence.h
+-
+DnaCollection.h
+-
+../DnaCollection.h
+/home/gottscha/CLionProjects/DNA sequence project/DnaCollection.h
+

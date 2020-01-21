@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DNA_sequence_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DNA_sequence_project">
+				<Option output="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/DNA_sequence_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/control_commands"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_analysis"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_creation"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_management"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_manipulation"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/model"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/view"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 DNA_sequence_project"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DNA_sequence_project/fast">
+				<Option output="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug/DNA_sequence_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/control_commands"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_analysis"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_creation"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_management"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_manipulation"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/model"/>
+					<Add directory="/home/gottscha/CLionProjects/DNA sequence project/view"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 DNA_sequence_project/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gottscha/CLionProjects/DNA sequence project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gottscha/CLionProjects/DNA\ sequence\ project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/ICommand.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/control_commands/help.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/control_commands/list.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/control_commands/quit.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/control_commands/show.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_analysis/count.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_analysis/find.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_analysis/findall.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_analysis/len.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_creation/dup.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_creation/load.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_creation/new.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_management/del.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_management/reenum.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_management/rename.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_management/save.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_manipulation/concat.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_manipulation/pair.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_manipulation/replace.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/controller/sequence_manipulation/slice.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/main.cpp">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/DnaCollection.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/dnaRecord.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/dna_sequence.cpp">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/dna_sequence.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/fileReader.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/fileWriter.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/model/nucleotide.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/test_dna_sequence.cpp">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/view/CLI.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/view/parser.cpp">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/view/parser.h">
+			<Option target="DNA_sequence_project"/>
+		</Unit>
+		<Unit filename="/home/gottscha/CLionProjects/DNA sequence project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
